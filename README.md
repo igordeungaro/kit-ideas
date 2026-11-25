@@ -176,3 +176,12 @@ As a bonus, I created the [#100Days100Projects challenge](https://www.florin-pop
 ## Stars history
 
 [![Stargazers over time](https://starchart.cc/florinpop17/app-ideas.svg)](https://starchart.cc/florinpop17/app-ideas)
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/florinpop17/app-ideas
